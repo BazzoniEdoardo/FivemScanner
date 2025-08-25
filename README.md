@@ -58,5 +58,6 @@ python fivemscanner.py abc123
 
 ### What happens:
 - It fetches all data from the server with the given ID.
-- It creates a folder in results/<server_id>/.
+- It creates a folder in `results/<server_id>/`.
+
 - It saves multiple JSON files containing server information.
